@@ -1,0 +1,9 @@
+service interfaces.factoryInterface@1.0-service /vendor/bin/hw/interfaces.factoryInterface@1.0-service
+   class late_start
+   user root
+   group system drmrpc media mediadrm
+
+#service interfaces.factoryInterface@1.0-service_32 /vendor/bin/hw/interfaces.factoryInterface@1.0-service_32
+#    class late_start
+#    user root
+#    group root
