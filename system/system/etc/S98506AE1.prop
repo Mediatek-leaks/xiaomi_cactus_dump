@@ -1,0 +1,7 @@
+ro.product.wt.boardid=S98506AE1
+ro.miui.support_fingerprint=false
+ro.product.subproject=S98506AE1
+ro.mtk_sim_hot_swap_common_slot=1
+ro.product.cert=M1804C3CE
+#add for dynamic config by boardid zhangwei4.wt 2019/03/13
+ro.vendor.mtk_sim_hot_swap_common_slot=1 

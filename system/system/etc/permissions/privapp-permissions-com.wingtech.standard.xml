@@ -1,0 +1,6 @@
+<permissions>
+    <privapp-permissions package="com.wingtech.standard">
+        <permission name="android.permission.REBOOT"/>
+        <permission name="android.permission.RETRIEVE_WINDOW_CONTENT"/>
+    </privapp-permissions>
+</permissions>
